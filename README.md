@@ -82,7 +82,7 @@ MDPS/
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 💡 Key Novelties
+## Key Novelties
 
 1. **Hybrid Clinical AI**  
    - First to combine GNNs (for feature relationships) with LSTMs (for temporal patterns) in heart disease prediction
@@ -93,14 +93,7 @@ MDPS/
 3. **Voice Biomarker Engine**  
    - Parkinson's model analyzes 8 voice features across 3 timepoints for progression tracking
 
-4. **Privacy-Preserving Chat**  
-   - Local Ollama deployment ensures no PHI leaves the hospital network
+4. **Unified Clinical Interface**  
+   - Single dashboard integrates 9 specialized models using ML and Deep Learning Techniques
 
-5. **Unified Clinical Interface**  
-   - Single dashboard integrates 10+ specialized models with EMR export capabilities
-
-6. **Explainability Built-In**  
-   - Every prediction includes:
-     - SHAP values for ML models
-     - Attention maps for LSTMs
-     - Node importance for GNNs
+5. **Ready Built-In Models**  
