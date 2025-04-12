@@ -5,7 +5,7 @@
  *(Adding architecture diagram and demo later)*
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📂 Project Structure
-
+```bash
 MDPS/
 ├── code/ # All prediction modules
 │ ├── chatbot.py # Medical Q&A chatbot
