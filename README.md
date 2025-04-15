@@ -1,4 +1,5 @@
 # 🏥 MDPS-Multi-Disease-Prediction-System-Using-ML-and-DeepLearning-with-ChatBot-Integration
+![logo](https://github.com/user-attachments/assets/809eb257-d092-4d36-9a92-b7bbc6145f0c)
 
 **An end-to-end AI clinical decision support system** with modular disease predictors and chatbot integration.
 
