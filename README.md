@@ -97,3 +97,22 @@ MDPS/
    - Single dashboard integrates 9 specialized models using ML and Deep Learning Techniques
 
 5. **Ready Built-In Models**  
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## ScreenShots
+
+**Home Page**
+![WhatsApp Image 2025-04-15 at 13 50 54_ea5f182a](https://github.com/user-attachments/assets/e2eb77d3-6025-4df3-b42b-e007cfd05228)
+![WhatsApp Image 2025-04-15 at 13 50 54_ab55e656](https://github.com/user-attachments/assets/5cb05035-0060-449b-9b7d-54938e6bf1f6)
+
+**Ex of DL model Usage**
+![WhatsApp Image 2025-04-15 at 13 50 54_8aa3154a](https://github.com/user-attachments/assets/e5b20eb5-ab5c-4518-9c42-17d39df7af77)
+![WhatsApp Image 2025-04-15 at 13 50 55_85b11a88](https://github.com/user-attachments/assets/a0f02c33-fc53-46b7-9412-fd8afac26ec3)
+
+**Ex of ML model Usage**
+![WhatsApp Image 2025-04-15 at 13 50 55_09db9a7c](https://github.com/user-attachments/assets/1b1eea90-4245-47f1-b1ee-204d6c113f3f)
+![WhatsApp Image 2025-04-15 at 13 50 55_2a7a743c](https://github.com/user-attachments/assets/74a37c1b-29a9-492f-b029-6b078de25030)
+
+**ChatBot Powered By Ollama**
+![WhatsApp Image 2025-04-15 at 13 50 55_8606f675](https://github.com/user-attachments/assets/7bab6c55-d4cf-4388-ad4d-446ad6416d85)
+
