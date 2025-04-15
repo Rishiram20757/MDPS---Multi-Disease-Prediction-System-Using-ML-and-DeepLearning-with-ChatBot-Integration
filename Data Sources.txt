@@ -1,0 +1,26 @@
+
+Heart Disease UCI :
+https://archive.ics.uci.edu/dataset/45/heart+disease
+
+Diabetes 130-US Hospitals for Years 1999-2008  UCI:
+https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
+
+Chronic Kidney disease Kaggle :
+https://www.kaggle.com/datasets/mansoordaku/ckdisease
+
+Parkinson :
+UCI: Parkinsons Telemonitoring - https://archive.ics.uci.edu/dataset/189/parkinsons+telemonitoring
+Kaggle: Parkinsons Telemonitoring - https://www.kaggle.com/datasets/rishidamarla/parkinsons-telemonitoring-data
+
+Sepsis :
+PhysioNet : https://physionet.org/content/challenge-2019/1.0.0/
+Kaggle: https://www.kaggle.com/datasets/salikhussaini49/prediction-of-sepsis
+
+Liver: 
+https://www.kaggle.com/datasets/abhi8923shriv/liver-disease-patient-dataset
+
+Thyroid Disease UCI:
+https://archive.ics.uci.edu/dataset/102/thyroid+disease
+
+chatbot:
+ollama - https://ollama.com/monotykamary/medichat-llama3/tags

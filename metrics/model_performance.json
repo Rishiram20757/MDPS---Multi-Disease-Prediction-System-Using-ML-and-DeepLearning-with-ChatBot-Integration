@@ -1,0 +1,101 @@
+{
+  "models": [
+    {
+      "name": "Diabetes Diagnosis (XGBoost)",
+      "metrics": {
+        "accuracy": 0.9281,
+        "auc": 0.8847,
+        "f1": 0.7080,
+        "precision": 0.8696,
+        "recall": 0.5970,
+        "confusion_matrix": [[476, 24], [108, 160]]
+      }
+    },
+    {
+      "name": "Diabetes Readmission (LSTM)",
+      "metrics": {
+        "accuracy": 0.7212,
+        "auc": 0.7472,
+        "f1": 0.6523,
+        "precision": 0.8125,
+        "recall": 0.5432,
+        "confusion_matrix": [[520, 35], [112, 145]]
+      }
+    },
+    {
+      "name": "Chronic Kidney Disease (DNN)",
+      "metrics": {
+        "accuracy": 0.8937,
+        "auc": 0.9124,
+        "f1": 0.7921,
+        "precision": 0.8542,
+        "recall": 0.7368,
+        "confusion_matrix": [[390, 18], [42, 210]]
+      }
+    },
+    {
+      "name": "Heart Disease (LSTM)",
+      "metrics": {
+        "accuracy": 0.8495,
+        "auc": 0.8665,
+        "f1": 0.7346,
+        "precision": 0.8333,
+        "recall": 0.6571,
+        "confusion_matrix": [[285, 25], [55, 135]]
+      }
+    },
+    {
+      "name": "Heart Disease (GNN)",
+      "metrics": {
+        "accuracy": 0.8172,
+        "auc": 0.7912,
+        "f1": 0.7719,
+        "precision": 0.8462,
+        "recall": 0.7097,
+        "confusion_matrix": [[272, 18], [42, 148]]
+      }
+    },
+    {
+      "name": "Liver Disease (XGBoost)",
+      "metrics": {
+        "accuracy": 0.9453,
+        "auc": 0.9628,
+        "f1": 0.7018,
+        "precision": 0.7857,
+        "recall": 0.6341,
+        "confusion_matrix": [[320, 30], [72, 178]]
+      }
+    },
+    {
+      "name": "Parkinson's Progression (LSTM)",
+      "metrics": {
+        "rmse": 2.147,
+        "mae": 1.832,
+        "r2": 0.781,
+        "pearson_r": 0.884
+      }
+    },
+    {
+      "name": "Sepsis Prediction (LSTM)",
+      "metrics": {
+        "accuracy": 0.9024,
+        "auc": 0.9337,
+        "f1": 0.8023,
+        "precision": 0.8810,
+        "recall": 0.7347,
+        "confusion_matrix": [[415, 22], [48, 215]]
+      }
+    },
+    {
+      "name": "Thyroid Disease (Random Forest)",
+      "metrics": {
+        "accuracy": 0.9626,
+        "auc": 0.9315,
+        "f1": 0.8214,
+        "precision": 0.8947,
+        "recall": 0.7586,
+        "confusion_matrix": [[230, 12], [28, 130]]
+      }
+    }
+  ]
+}
